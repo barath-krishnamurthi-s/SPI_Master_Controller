@@ -1,0 +1,16 @@
+
+# Simulation output files
+*.vcd
+*.fst
+*.lxt
+*.vvp
+*.out
+*.log
+
+# Simulator and tool-generated files
+*.jou
+*.str
+
+# Editor files
+.vscode/
+.DS_Store
